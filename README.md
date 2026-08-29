@@ -12,5 +12,5 @@ Discord: https://discord.gg/uFChheZEWX
 YouTube: https://www.youtube.com/@develop_erZ
 
 # PLEASE SEE HERE!!!!
-For now, the game DOES NOT WORK!! It boots to the main menu, it works very good, settings work and you can modify the player name and, of course, the settings get saved, which means that if you modify something in settings (es. player name) and quit the game, at the next open of the game, it will be there!! Im actively working on this port and I will try to push the first release as soon as possible!! To remain up-to-date, please follow me trough the link I posted up there!
+For now, the game DOES NOT WORK!! All the things you can do in the main menu work, and they do work very good, settings work and you can modify the player name and, of course, the settings get saved, which means that if you modify something in settings (es. player name) and quit the game, at the next open of the game, it will be there. "Play" button does work too, in fact, you can create a world but it will eventually crash when trying to create it. Im actively working on this port and I will try to push the first release as soon as possible!! To remain up-to-date, please follow me trough the link I posted up there!
 
