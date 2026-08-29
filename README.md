@@ -4,7 +4,10 @@
 This is a port of Minecraft PE v.0.9.0 Alpha for the console PlayStation Vita. It is ready to play, so you simply need to install the vpk and enjoy!. I provided my legal files of the copy since I had it archived on one of my old android devices.
 
 If you want to support me, you can in different ways:
+
 Ko-Fi: https://ko-fi.com/dev_zer0
+
 Discord: https://discord.gg/uFChheZEWX
+
 YouTube: https://www.youtube.com/@develop_erZ
 
