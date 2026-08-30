@@ -15,10 +15,15 @@ YouTube: https://www.youtube.com/@develop_erZ
 ***__GAME CONDITIONS:__***
 
 # WHAT WORKS
+
 🟩 Main Menu
+
 🟩 Settings (plus they remain saved and you can use settings in-game too)
+
 🟩 Worlds browser (you can create and save worlds)
+
 🟩 Pause menu (its an invisible button, but it works)
+
 🟩 Play external worlds (downloading maps online and putting them into the folder where the worlds saves are)
 
 # WHAT (BARELY/DOESN'T) WORKS
