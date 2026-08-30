@@ -22,17 +22,17 @@ YouTube: https://www.youtube.com/@develop_erZ
 
 🟩 Worlds browser (you can create and save worlds)
 
-🟩 Pause menu (its an invisible button, but it works)
+🟩 Pause menu (fixed in-game button, was invisible before)
 
-🟩 Play external worlds (downloading maps online and putting them into the folder where the worlds saves are)
+🟩 Play external worlds (downloading maps online and putting them into the folder where the worlds saves are is what I mean)
 
 # WHAT (BARELY/DOESN'T) WORKS
 
-🟥 Rendering
+🟥 Rendering (almost entirely fixed)
 
 🟥 PS VITA Controller
 
-🟥 Multiplayer (idk how i will implement it, but i'll try, but like its the last thing ill try to do)
+🟥 Multiplayer (idk how i will implement this, but i'll try, but like its the last thing ill try to do)
 
 🟥 Audio (next fix after some other quick PS VITA troubleshooting and rendering fix)
 
