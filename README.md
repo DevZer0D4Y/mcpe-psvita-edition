@@ -27,8 +27,12 @@ YouTube: https://www.youtube.com/@develop_erZ
 🟩 Play external worlds (downloading maps online and putting them into the folder where the worlds saves are)
 
 # WHAT (BARELY/DOESN'T) WORKS
+
 🟥 Rendering
+
 🟥 PS VITA Controller
+
 🟥 Multiplayer (idk how i will implement it, but i'll try, but like its the last thing ill try to do)
+
 🟥 Audio (next fix after some other quick PS VITA troubleshooting and rendering fix)
 
