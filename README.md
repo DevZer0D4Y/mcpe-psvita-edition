@@ -1,4 +1,4 @@
-# Minecraft Pocket Edition: PlayStation Vita Edition
+# Minecraft PE: PlayStation Vita Edition
 <img width="994" height="251" alt="image" src="https://github.com/user-attachments/assets/d8f010a2-e5f2-4791-be84-445dbd27459a" />
 
 
