@@ -27,7 +27,7 @@ YouTube: https://www.youtube.com/@develop_erZ
 
 🟩 Play external worlds (downloading maps online and putting them into the folder where the worlds saves are is what I mean)
 
-🟩 Rendering
+🟩 Rendering (needs a little final fix, but works)
 
 # WHAT (BARELY/DOESN'T) WORKS
 
