@@ -27,9 +27,9 @@ YouTube: https://www.youtube.com/@develop_erZ
 
 🟩 Play external worlds (downloading maps online and putting them into the folder where the worlds saves are is what I mean)
 
-# WHAT (BARELY/DOESN'T) WORKS
+🟩 Rendering
 
-🟥 Rendering (almost entirely fixed)
+# WHAT (BARELY/DOESN'T) WORKS
 
 🟥 PS VITA Controller
 
