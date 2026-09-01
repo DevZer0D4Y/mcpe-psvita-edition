@@ -29,11 +29,10 @@ YouTube: https://www.youtube.com/@develop_erZ
 
 🟩 Rendering (needs a little final fix, but works)
 
-# WHAT (BARELY/DOESN'T) WORKS
+🟩 Audio
+
+# WHAT STILL DOESN'T WORKS
 
 🟥 PS VITA Controller
 
 🟥 Multiplayer (idk how i will implement this, but i'll try, but like its the last thing ill try to do)
-
-🟥 Audio (next fix after some other quick PS VITA troubleshooting and rendering fix)
-
