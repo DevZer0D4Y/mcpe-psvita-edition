@@ -31,7 +31,7 @@ YouTube: https://www.youtube.com/@develop_erZ
 
 🟩 Audio
 
-# WHAT STILL DOESN'T WORKS
+# WHAT STILL DOESN'T WORK
 
 🟥 PS VITA Controller
 
