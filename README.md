@@ -14,7 +14,7 @@ YouTube: https://www.youtube.com/@develop_erZ
 
 
 # NO PIRACY INVOLVED IN THIS PROJECT!! PROVIDE YOUR OWN "ASSETS" FOLDER AND "LIBMINECRAFTPE.SO" FROM YOUR LEGALLY OBTAINED APK!!
-(put assets in the root of the project and the .so in the "data" folder)
+(put your "assets" folder from your .apk in the root of the project and the "libminecraftpe.so" (still from the apk) from lib/armeabi-v7a in the "data" folder)
 
 
 # PLEASE SEE HERE!!!!
