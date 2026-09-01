@@ -35,4 +35,4 @@ YouTube: https://www.youtube.com/@develop_erZ
 
 🟥 PS VITA Controller
 
-🟥 Multiplayer (idk how i will implement this, but i'll try, but like its the last thing ill try to do)
+🟥 Multiplayer (very optional, idk how i will implement this and I don't even know if I'll try doing this, but i'll try, but like its the last thing ill try to do)
