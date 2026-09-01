@@ -25,7 +25,7 @@ YouTube: https://www.youtube.com/@develop_erZ
 
 🟩 Pause menu (fixed in-game button, was invisible before)
 
-🟩 Play external worlds (downloading maps online and putting them into the folder where the worlds saves are is what I mean)
+🟩 Play external worlds (downloading maps online and putting them into the folder where the worlds saves are is what I mean, which is ux0/data/mcpe/games/com.mojang/minecraftWorlds and put the world folder right here MUST NOT BE FOLDER-IN-FOLDER, THE PLACED FOLDER MUST HAVE FILES IN IT, NOT ANOTHER FOLDER WITH THE WORLD FILES IN IT!!)
 
 🟩 Rendering (needs a little final fix, but works)
 
