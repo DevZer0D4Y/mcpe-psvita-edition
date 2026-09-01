@@ -36,8 +36,8 @@ YouTube: https://www.youtube.com/@develop_erZ
 
 🟩 Audio
 
-# WHAT STILL DOESN'T WORK
+🟩 PS VITA Controller (needs a little final fix, but works)
 
-🟥 PS VITA Controller
+# WHAT STILL DOESN'T WORK
 
 🟥 Multiplayer (very optional, idk how i will implement this and I don't even know if I'll try doing this, but i'll try, but like its the last thing ill try to do)
