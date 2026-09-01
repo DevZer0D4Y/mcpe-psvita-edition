@@ -13,7 +13,7 @@ Discord: https://discord.gg/uFChheZEWX
 YouTube: https://www.youtube.com/@develop_erZ
 
 
-# NO PIRACY INVOLVED IN THIS PROJECT!! PROVIDE YOUR OWN "ASSETS" FOLDER AND "LIBMINECRAFTPE.SO" FROM YOUR LEGALLY OBTAINED COPY OF THE GAME!!
+# NO PIRACY INVOLVED IN THIS PROJECT!! PROVIDE YOUR OWN _"ASSETS"_ FOLDER AND _"LIBMINECRAFTPE.SO"_ FROM YOUR LEGALLY OBTAINED COPY OF THE GAME!!
 (put your "assets" folder from your .apk in the root of the project and the "libminecraftpe.so" (still from the apk) from lib/armeabi-v7a in the "data" folder)
 
 
